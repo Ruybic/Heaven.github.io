@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-02T18:42:42.801Z",
+  "updated_at": "2026-02-02T23:27:26.296Z",
   "country": "IQ",
   "source": "osu API v2",
   "total": 50,
@@ -17,7 +17,7 @@
       "username": "6xSeven",
       "user_id": 29452442,
       "pp": 9988.55,
-      "rank": 7207,
+      "rank": 7216,
       "country_rank": 2,
       "avatar_url": "https://a.ppy.sh/29452442?1746190505.jpeg",
       "profile_url": "https://osu.ppy.sh/users/29452442"
@@ -115,8 +115,8 @@
     {
       "username": "Kaiju13",
       "user_id": 26916963,
-      "pp": 6525.4,
-      "rank": 44177,
+      "pp": 6531.61,
+      "rank": 44037,
       "country_rank": 13,
       "avatar_url": "https://a.ppy.sh/26916963?1769736186.jpeg",
       "profile_url": "https://osu.ppy.sh/users/26916963"
@@ -266,11 +266,20 @@
       "profile_url": "https://osu.ppy.sh/users/14339730"
     },
     {
+      "username": "Bappo_1337",
+      "user_id": 21688901,
+      "pp": 4933.51,
+      "rank": 104918,
+      "country_rank": 30,
+      "avatar_url": "https://a.ppy.sh/21688901?1756738715.jpeg",
+      "profile_url": "https://osu.ppy.sh/users/21688901"
+    },
+    {
       "username": "Vector5g",
       "user_id": 15021013,
       "pp": 4925.25,
       "rank": 105294,
-      "country_rank": 30,
+      "country_rank": 31,
       "avatar_url": "https://a.ppy.sh/15021013?1715586516.jpeg",
       "profile_url": "https://osu.ppy.sh/users/15021013"
     },
@@ -279,18 +288,9 @@
       "user_id": 16368385,
       "pp": 4905.97,
       "rank": 106282,
-      "country_rank": 31,
+      "country_rank": 32,
       "avatar_url": "https://a.ppy.sh/16368385?1635620370.jpeg",
       "profile_url": "https://osu.ppy.sh/users/16368385"
-    },
-    {
-      "username": "Bappo_1337",
-      "user_id": 21688901,
-      "pp": 4871.98,
-      "rank": 108107,
-      "country_rank": 32,
-      "avatar_url": "https://a.ppy.sh/21688901?1756738715.jpeg",
-      "profile_url": "https://osu.ppy.sh/users/21688901"
     },
     {
       "username": "Zander4K",

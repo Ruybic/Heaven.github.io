@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-03T02:04:35.831Z",
+  "updated_at": "2026-02-03T04:45:19.819Z",
   "country": "IQ",
   "source": "osu API v2",
   "total": 50,
@@ -79,8 +79,8 @@
     {
       "username": "Biscuits0",
       "user_id": 23843313,
-      "pp": 8028.67,
-      "rank": 19902,
+      "pp": 8028.77,
+      "rank": 19908,
       "country_rank": 9,
       "avatar_url": "https://a.ppy.sh/23843313?1770006885.jpeg",
       "profile_url": "https://osu.ppy.sh/users/23843313"

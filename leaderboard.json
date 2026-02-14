@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-14T18:33:48.904Z",
+  "updated_at": "2026-02-14T19:22:49.925Z",
   "country": "IQ",
   "source": "osu API v2",
   "total": 50,
@@ -8,7 +8,7 @@
       "username": "L e n",
       "user_id": 10286650,
       "pp": 11530.1,
-      "rank": 3278,
+      "rank": 3277,
       "country_rank": 1,
       "avatar_url": "https://a.ppy.sh/10286650?1768189294.jpeg",
       "profile_url": "https://osu.ppy.sh/users/10286650"
@@ -35,7 +35,7 @@
       "username": "Y a d",
       "user_id": 19521102,
       "pp": 8869.94,
-      "rank": 13013,
+      "rank": 13015,
       "country_rank": 4,
       "avatar_url": "https://a.ppy.sh/19521102?1735975550.jpeg",
       "profile_url": "https://osu.ppy.sh/users/19521102"
@@ -116,7 +116,7 @@
       "username": "Kaiju13",
       "user_id": 26916963,
       "pp": 6612.54,
-      "rank": 42361,
+      "rank": 42370,
       "country_rank": 13,
       "avatar_url": "https://a.ppy.sh/26916963?1770345376.png",
       "profile_url": "https://osu.ppy.sh/users/26916963"
@@ -242,7 +242,7 @@
       "username": "Bappo_1337",
       "user_id": 21688901,
       "pp": 5150.42,
-      "rank": 93897,
+      "rank": 93899,
       "country_rank": 27,
       "avatar_url": "https://a.ppy.sh/21688901?1756738715.jpeg",
       "profile_url": "https://osu.ppy.sh/users/21688901"
@@ -332,7 +332,7 @@
       "username": "Araizo",
       "user_id": 12020201,
       "pp": 4420.11,
-      "rank": 136557,
+      "rank": 136597,
       "country_rank": 37,
       "avatar_url": "https://a.ppy.sh/12020201?1592979616.jpeg",
       "profile_url": "https://osu.ppy.sh/users/12020201"

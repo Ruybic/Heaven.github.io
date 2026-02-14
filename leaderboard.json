@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-14T13:43:05.940Z",
+  "updated_at": "2026-02-14T14:26:17.753Z",
   "country": "IQ",
   "source": "osu API v2",
   "total": 50,
@@ -188,7 +188,7 @@
       "username": "Ali Ahmed",
       "user_id": 13542355,
       "pp": 5954.41,
-      "rank": 60457,
+      "rank": 60460,
       "country_rank": 21,
       "avatar_url": "https://a.ppy.sh/13542355?1614288985.jpeg",
       "profile_url": "https://osu.ppy.sh/users/13542355"
@@ -287,7 +287,7 @@
       "username": "kartel",
       "user_id": 16368385,
       "pp": 4909.21,
-      "rank": 106824,
+      "rank": 106846,
       "country_rank": 32,
       "avatar_url": "https://a.ppy.sh/16368385?1635620370.jpeg",
       "profile_url": "https://osu.ppy.sh/users/16368385"
